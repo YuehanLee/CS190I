@@ -1,3 +1,7 @@
+## Files to Test: test.py, example/test.tyrell
+
+
+
 # Trinity+: Next-generation Synthesizer for Data Science
 
 Dev Environment Setup
