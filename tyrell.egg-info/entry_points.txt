@@ -1,0 +1,3 @@
+[console_scripts]
+parse-tyrell-spec = tyrell.parse_tyrell_spec:cli
+

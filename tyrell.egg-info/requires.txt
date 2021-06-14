@@ -1,0 +1,10 @@
+Click
+colorama
+sexpdata
+z3-solver
+
+[dev]
+mypy
+rpy2
+lark-parser
+sphinx

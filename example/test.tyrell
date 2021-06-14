@@ -1,0 +1,21 @@
+enum RawInt {
+    "1", "2"
+}
+
+value Int;
+value Empty;
+
+program Toy(Int) -> Int;
+
+func get_int: Int -> RawInt;
+
+func plus: Int -> Int, Int;
+func mult: Int -> Int, Int;
+func empty: Empty -> Empty;
+func power: Int -> Int, Int;
+func fac: Int -> Int;
+predicate is_parent(power, get_int, 100);
+predicate is_parent(power, plus, 100);
+predicate occurs(power, 100);
+predicate occurs(plus, 100);
+predicate occurs(get_int, 100);

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tyrell
+Version: 0.1.dev0
+Summary: Deduction-based synthesis framework
+Home-page: UNKNOWN
+License: LICENSE.txt
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: dev
